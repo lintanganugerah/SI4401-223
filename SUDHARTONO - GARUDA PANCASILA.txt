@@ -10,4 +10,8 @@ Patriot proklamasi
 Sedia berkorban untukmu
 Pancasila dasar negara
 Rakyat adil makmur sentosa
+<<<<<<< HEAD
 Pribadi bangsaku
+=======
+Ayo maju maju
+>>>>>>> origin/Nafis
