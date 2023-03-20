@@ -1,1 +1,2 @@
 membuat fitur registrasi
+telah membuat fitur registrasi
